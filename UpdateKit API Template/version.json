@@ -1,7 +1,7 @@
 {
-    "Version": "1.0.1",
-    "URL": "https://www.icloud.com/shortcuts/caa337ff60884c3b909e6606fe406bb7",
-    "Notes": "fixes missing module selection",
-    "Release": "2022-12-26",
+    "Version": "1.0.2",
+    "URL": "https://www.icloud.com/shortcuts/cedce62a847f4f05a6d3e45c8e1a7994",
+    "Notes": "fix settings file name",
+    "Release": "2022-12-27",
     "Required": false
   }
