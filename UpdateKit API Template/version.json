@@ -1,7 +1,7 @@
 {
-    "Version": "1.0.2",
-    "URL": "https://www.icloud.com/shortcuts/cedce62a847f4f05a6d3e45c8e1a7994",
-    "Notes": "fix settings file name",
+    "Version": "1.0.3",
+    "URL": "https://www.icloud.com/shortcuts/109471f133284401a9059bbe55b7e9a3",
+    "Notes": "bump version number",
     "Release": "2022-12-27",
     "Required": false
-  }
+}
