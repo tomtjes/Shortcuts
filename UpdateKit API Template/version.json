@@ -1,7 +1,7 @@
 {
-    "Version": "1.0.3",
-    "URL": "https://www.icloud.com/shortcuts/109471f133284401a9059bbe55b7e9a3",
-    "Notes": "bump version number",
-    "Release": "2022-12-26",
+    "Version": "1.0.4",
+    "URL": "https://www.icloud.com/shortcuts/cf461e2ff8ac4740b04b9ad746e467ef",
+    "Notes": "make config file name a setup question",
+    "Release": "2022-12-29",
     "Required": false
 }
